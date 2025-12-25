@@ -1,0 +1,27 @@
+.site-header {
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.site-nav a {
+  color: #ffdd99;
+  font-weight: 600;
+}
+
+.page-content h2 {
+  color: #1e3c72;
+  border-bottom: 2px solid #c3cfe2;
+  padding-bottom: 5px;
+}
+
+a {
+  color: #2a5298;
+}
+
+a:hover {
+  color: #ff6f00;
+}
