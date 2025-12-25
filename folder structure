@@ -1,0 +1,9 @@
+your-repo/
+│
+├── _config.yml
+├── index.md
+├── about.md
+├── assets/
+│   └── css/
+│       └── custom.css
+└── _posts/   (optional, not required)
