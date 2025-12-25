@@ -1,0 +1,27 @@
+title: Dr. Pothireddy Surendranath Reddy
+description: >
+  Official knowledge hub of Dr. Pothireddy Surendranath Reddy –
+  Orthopaedic Surgeon, Educator, Researcher, Writer & Traveller.
+
+author: Dr. Pothireddy Surendranath Reddy
+email: bvsubbareddyortho@gmail.com
+
+theme: minima
+
+minima:
+  skin: classic
+
+show_excerpts: false
+
+header_pages:
+  - index.md
+  - about.md
+
+social_links:
+  - { platform: linkedin,  user_url: "https://www.linkedin.com/in/pothireddy-surendranath-reddy-a980b438a" }
+  - { platform: github,    user_url: "https://pothireddysurendranathreddy.github.io" }
+  - { platform: twitter,   user_url: "https://x.com/pothireddy1196" }
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
